@@ -6,10 +6,9 @@ public class TestAllShape {
         System.out.println(s1.getPerimeter());
         System.out.println(s1.getColor());
         System.out.println(s1.isFilled());
-
-        Circle c1 = s1;
         System.out.println(s1.getRadius());
 
+        Circle c1 = s1;
         System.out.println(c1);
         System.out.println(c1.getArea());
         System.out.println(c1.getPerimeter());
